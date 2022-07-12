@@ -7,7 +7,7 @@
 
 
 /config
-url=https://github.com/nehatrivedi23/gitLearning
+url=[remote "origin"]
 # testing
 /coverage
 
