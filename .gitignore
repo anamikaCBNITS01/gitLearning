@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+
+/config
+url=https://github.com/nehatrivedi23/gitLearning
 # testing
 /coverage
 
