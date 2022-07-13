@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+
+# /config
+# url=[remote "origin"]
 # testing
 /coverage
 
